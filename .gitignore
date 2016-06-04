@@ -1,0 +1,10 @@
+*.pyc
+*~
+\#*.*\#
+*.swp
+*.pid
+update.log
+output
+gnupg/*
+ssh/*
+server_secret_key
